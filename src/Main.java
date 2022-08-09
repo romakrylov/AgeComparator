@@ -44,5 +44,5 @@ public class Main {
         System.out.println("Minimal age: " + min);
         System.out.println("Middle age: " + middle);
         System.out.println("Maximal age: " + max);
-            }
+    }
 }
